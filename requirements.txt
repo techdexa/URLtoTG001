@@ -9,3 +9,4 @@ Pillow
 ffmpeg
 gdown
 yt_dlp
+wget
